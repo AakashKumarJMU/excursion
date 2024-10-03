@@ -19,7 +19,6 @@ h2 {
 }
 
 .link {
-    
     text-align: center;
 }
 
@@ -33,9 +32,30 @@ p {
 a{
     color: aquamarine;
     font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.camp{
+    display: flex;
+    justify-content: center;
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
 }
 
 footer {
   text-align: right;
-  color: white; 
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  margin-top: 30px;
 }
